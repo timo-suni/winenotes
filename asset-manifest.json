@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "./static/js/main.772e7908.chunk.js",
-    "main.js.map": "./static/js/main.772e7908.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.75474c92.js",
-    "runtime-main.js.map": "./static/js/runtime-main.75474c92.js.map",
-    "static/js/2.53595580.chunk.js": "./static/js/2.53595580.chunk.js",
-    "static/js/2.53595580.chunk.js.map": "./static/js/2.53595580.chunk.js.map",
-    "index.html": "./index.html",
-    "static/js/2.53595580.chunk.js.LICENSE.txt": "./static/js/2.53595580.chunk.js.LICENSE.txt",
-    "static/media/logo.1959b1c4.png": "./static/media/logo.1959b1c4.png"
+    "main.js": "/winenotes/static/js/main.772e7908.chunk.js",
+    "main.js.map": "/winenotes/static/js/main.772e7908.chunk.js.map",
+    "runtime-main.js": "/winenotes/static/js/runtime-main.acb4434d.js",
+    "runtime-main.js.map": "/winenotes/static/js/runtime-main.acb4434d.js.map",
+    "static/js/2.2384fd22.chunk.js": "/winenotes/static/js/2.2384fd22.chunk.js",
+    "static/js/2.2384fd22.chunk.js.map": "/winenotes/static/js/2.2384fd22.chunk.js.map",
+    "index.html": "/winenotes/index.html",
+    "static/js/2.2384fd22.chunk.js.LICENSE.txt": "/winenotes/static/js/2.2384fd22.chunk.js.LICENSE.txt",
+    "static/media/logo.1959b1c4.png": "/winenotes/static/media/logo.1959b1c4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.75474c92.js",
-    "static/js/2.53595580.chunk.js",
+    "static/js/runtime-main.acb4434d.js",
+    "static/js/2.2384fd22.chunk.js",
     "static/js/main.772e7908.chunk.js"
   ]
 }
