@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/winenotes/static/js/main.c4fe3be5.chunk.js",
-    "main.js.map": "/winenotes/static/js/main.c4fe3be5.chunk.js.map",
+    "main.js": "/winenotes/static/js/main.4023b8e3.chunk.js",
+    "main.js.map": "/winenotes/static/js/main.4023b8e3.chunk.js.map",
     "runtime-main.js": "/winenotes/static/js/runtime-main.acb4434d.js",
     "runtime-main.js.map": "/winenotes/static/js/runtime-main.acb4434d.js.map",
-    "static/js/2.d242341f.chunk.js": "/winenotes/static/js/2.d242341f.chunk.js",
-    "static/js/2.d242341f.chunk.js.map": "/winenotes/static/js/2.d242341f.chunk.js.map",
+    "static/js/2.14aca5b0.chunk.js": "/winenotes/static/js/2.14aca5b0.chunk.js",
+    "static/js/2.14aca5b0.chunk.js.map": "/winenotes/static/js/2.14aca5b0.chunk.js.map",
     "index.html": "/winenotes/index.html",
-    "static/js/2.d242341f.chunk.js.LICENSE.txt": "/winenotes/static/js/2.d242341f.chunk.js.LICENSE.txt",
+    "static/js/2.14aca5b0.chunk.js.LICENSE.txt": "/winenotes/static/js/2.14aca5b0.chunk.js.LICENSE.txt",
     "static/media/logo.1959b1c4.png": "/winenotes/static/media/logo.1959b1c4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.acb4434d.js",
-    "static/js/2.d242341f.chunk.js",
-    "static/js/main.c4fe3be5.chunk.js"
+    "static/js/2.14aca5b0.chunk.js",
+    "static/js/main.4023b8e3.chunk.js"
   ]
 }
