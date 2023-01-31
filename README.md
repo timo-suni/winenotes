@@ -4,4 +4,4 @@ Built version of Wine Notes app
 
 This app lets you rate wines, then it stores that data into your browsers local storage. You can also view and sort your wines that have been stored.
 
-## Link to app: https://ctisu002xamk.github.io/winenotes/#/
+## Link to app: https://timo-suni.github.io/winenotes/#/
